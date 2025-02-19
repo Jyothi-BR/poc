@@ -1,0 +1,9 @@
+apiVersion: backstage.io/v1alpha1
+kind: Component
+metadata:
+  name: poc
+  annotations:
+    github.com/project-slug: Jyothi-B-R/poc
+spec:
+  type: other
+  lifecycle: unknown
